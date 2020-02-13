@@ -1,0 +1,39 @@
+@charset "UTF-8";
+.myheader {
+	background-color: gray;
+	height:50px;
+	width:1300px;
+	display: flex;
+	flex-direction: row;
+	flex: auto;
+	justify-content: space-between;
+	margin: 4px;
+	align-items: center;
+	justify-content: center;
+	
+ }
+.navbut {
+	height: 100%;
+	margin: auto;
+	padding: 13px;
+	color: white;
+	
+}
+
+
+.maincontainer {
+	height:1500px;
+	width: 1300px;
+	background-color: #848484;
+	display: flex;
+	flex: auto;
+	flex-direction: row;
+	margin-top: 50px;
+	margin-left: 4px;
+	margin-right: 4px;
+	
+}
+
+a {
+	font-family: 'lato', sans-serif;
+}

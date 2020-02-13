@@ -1,0 +1,15 @@
+@charset "UTF-8";
+.text1 {
+	text-align: center;
+}
+
+.trim {
+     max-height:200px;
+     max-width: 200px;
+     overflow: hidden;
+ }
+
+.item1 {
+	text-align: center;
+	padding-top: 50px;
+}
